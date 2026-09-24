@@ -1,0 +1,116 @@
+# Demo thesis. All data it runs against is synthetic (see `synthetic:` below).
+thesis:
+  name: Commercial fire and life-safety services, US Midwest
+  description: >
+    Founder-owned providers of fire sprinkler, fire alarm, extinguisher and
+    suppression installation, inspection and testing for commercial buildings.
+    Inspection and testing are code-mandated and recur every year, which makes
+    revenue sticky; the market is fragmented across many small local operators.
+
+industry:
+  # NAICS codes are coarse: 238220 also covers HVAC and plumbing shops, which is
+  # why keyword evidence decides the fit tier and NAICS only supports it.
+  naics: ["238210", "238220", "541350", "811310"]
+  include_keywords:
+    - fire protection
+    - fire sprinkler
+    - sprinkler
+    - fire alarm
+    - life safety
+    - extinguisher
+    - suppression
+    - fire inspection
+    - fire safety
+    - fire equipment
+    - fire detection
+    - fire pump
+  adjacent_keywords: [hvac, furnace, air conditioning, plumbing, drain, water heater, wiring, janitorial, floor care, home inspection, radon]
+  residential_only_keywords: [serving homeowners, residential only, homeowners only]
+  segments:
+    sprinkler:
+      keywords: [sprinkler, fire pump, standpipe, backflow]
+      revenue_per_employee: [150000, 210000]
+    alarm:
+      keywords: [fire alarm, alarm monitoring, detection, notification, emergency lighting]
+      revenue_per_employee: [140000, 195000]
+    inspection:
+      keywords: [inspection, testing, code compliance, deficiency]
+      revenue_per_employee: [115000, 160000]
+    suppression:
+      keywords: [extinguisher, suppression, kitchen hood, clean agent, hydrostatic]
+      revenue_per_employee: [120000, 170000]
+    unknown:
+      revenue_per_employee: [115000, 210000]
+  service_mix:
+    recurring_keywords: [inspection, testing, maintenance, monitoring, service agreement, "24/7 service", scheduled]
+    install_keywords: [installation, design-build, new construction, tenant finish, retrofit]
+    # Illustrative assumptions for the demo, not calibrated benchmarks.
+    ebitda_margin:
+      recurring_heavy: [0.13, 0.20]
+      mixed: [0.10, 0.16]
+      install_heavy: [0.07, 0.12]
+      unknown: [0.07, 0.20]
+
+size:
+  ebitda_min: 1000000
+  ebitda_max: 5000000
+
+geography:
+  states: [IL, IN, IA, KS, MI, MN, MO, NE, ND, OH, SD, WI]
+
+# Each feed is served by the synthetic adapter; a real deployment would register
+# its own adapters (see README, "Adding a source").
+sources:
+  - {adapter: synthetic, feed: business_registry, trust: 0.90}
+  - {adapter: synthetic, feed: state_license, trust: 0.85}
+  - {adapter: synthetic, feed: trade_association, trust: 0.70}
+  - {adapter: synthetic, feed: web_listing, trust: 0.60}
+
+synthetic:
+  seed: 42
+  n_firms: 60
+
+presence:
+  match_threshold: 90
+  web_presence_weight: 0.10
+  non_obvious_below: 0.30
+  databases:
+    - {checker: synthetic, database: commercial_db_a, weight: 0.35}
+    - {checker: synthetic, database: commercial_db_b, weight: 0.30}
+    - {checker: synthetic, database: investor_db, weight: 0.25}
+
+resolve:
+  merge_threshold: 92
+  review_threshold: 80
+  # Industry words that say what a firm does, not which firm it is. Two names that
+  # share only these ("Fire Protection Services") are not evidence of one company.
+  extra_generic_tokens: [fire, safety, life, protection, sprinkler, alarm, inspection,
+                         extinguisher, suppression, detection, mechanical, electric,
+                         plumbing, heating, air, hvac, cleaning, building, home, property, drain]
+  # Abbreviations and plurals seen in this industry's listings.
+  extra_abbreviations:
+    prot: protection
+    protec: protection
+    sprinklers: sprinkler
+    spklr: sprinkler
+    spkr: sprinkler
+    extinguishers: extinguisher
+    ext: extinguisher
+    insp: inspection
+    inspections: inspection
+    sfty: safety
+    detect: detection
+
+estimation:
+  interval_mode: endpoints
+  min_sigma: 0.15
+
+ranking:
+  weights: {p_in_band: 0.45, fit: 0.25, non_obvious: 0.20, evidence: 0.10}
+  priority: {max_rank: 12, min_p_in_band: 0.40}
+
+classify:
+  llm_hook: {enabled: false, callable: null}
+
+output:
+  brief_top_n: 10

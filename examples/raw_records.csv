@@ -1,0 +1,168 @@
+data,record_id,source,name,dba,city,state,zip,phone,website,attributes
+synthetic,REG-0001,business_registry,VELTLEY FIRE SPRINKLER SYSTEMS INC,,IRONVILLE,KS,67045,,,formation_year=2001; entity_status=Active; naics=238220; parent_entity=Parent Entity 01 (synthetic)
+synthetic,REG-0002,business_registry,"CRESKLEY FIRE DETECTION, CORP.",,WILTON,MN,56085,,,formation_year=1991; entity_status=Active; naics=238210; employee_band=20-49
+synthetic,REG-0003,business_registry,LOMBFIELD FIRE INSPECTION SERVICES L.L.C.,,MILLDALE,IL,61234,,,formation_year=1967; entity_status=Active; naics=541350; employee_band=50-99
+synthetic,REG-0004,business_registry,"VELTTHWAITE FIRE DETECTION, CORP.",,IRONHAVEN,OH,44105,,,formation_year=1966; entity_status=Active; naics=238210
+synthetic,REG-0005,business_registry,Ulvstow Fire Sprinkler Systems Inc.,,Larkbrook,IA,50587-6761,,,formation_year=2005; entity_status=Active; naics=238220; employee_band=10-19
+synthetic,REG-0006,business_registry,YORVTHWAITE FIRE & ALARM COMPANY,,BRAMDALE,MO,65443-4707,,,formation_year=1981; entity_status=Active; naics=238210; employee_band=20-49
+synthetic,REG-0007,business_registry,Prynmoor Building Services L.L.C.,,Millview,IA,50529-6371,,,formation_year=1997; entity_status=Active; naics=561720
+synthetic,REG-0008,business_registry,LOMBHAVEN FIRE EQUIPMENT L.L.C.,,OAKWOOD,TX,76522-2392,,,formation_year=1971; entity_status=Active; naics=811310; employee_band=20-49
+synthetic,REG-0009,business_registry,"Carvwick Electric, Corp.",,Glenville,IN,47361,,,formation_year=1995; entity_status=Active; naics=238210
+synthetic,REG-0010,business_registry,"Prynrigg Enterprises, Inc. dba Lombley Fire Suppression",,Wilport,TX,76565,,,formation_year=1977; entity_status=Active; naics=811310; employee_band=50-99
+synthetic,REG-0011,business_registry,"LOMBRIDGE HEATING & AIR, CO.",,BRAMBROOK,IL,61247,,,formation_year=1968; entity_status=Active; naics=238220; employee_band=20-49
+synthetic,REG-0012,business_registry,"RUSKMERE SPRINKLER CO, INC",,OAKPORT,AZ,85647,,,formation_year=1972; entity_status=Active; naics=238220; employee_band=20-49
+synthetic,REG-0013,business_registry,"GRELDELL FIRE SPRINKLER SYSTEMS, LLC",,ELMFIELD,MO,65473,,,formation_year=2018; entity_status=Active; naics=238220; employee_band=20-49
+synthetic,REG-0014,business_registry,ISTRRIGG GROUP LLC,LOMBCREST FIRE & LIFE SAFETY,GLENHAVEN,MI,49086,,,formation_year=1965; entity_status=Active; naics=541350; employee_band=20-49
+synthetic,REG-0015,business_registry,Maldstow HVAC Services Co.,,Wilville,MI,49039-7638,,,formation_year=1991; entity_status=Active; naics=238220
+synthetic,REG-0016,business_registry,"CRESKHOLT ELECTRIC, INC.",,GLENWOOD,IL,61226,,,formation_year=1975; entity_status=Active; naics=238210
+synthetic,REG-0017,business_registry,"PRYNVANE HOLDINGS, LLC D/B/A HALDWICK LIFE SAFETY INSPECTIONS",,CEDARWOOD,IN,47333,,,formation_year=2014; entity_status=Active; naics=541350
+synthetic,REG-0018,business_registry,ZENNSTEAD LIFE SAFETY SYSTEMS INC,,WILTON,MN,56024,,,formation_year=1968; entity_status=Active; naics=238210; employee_band=20-49
+synthetic,REG-0019,business_registry,LOMBLUND FIRE & ALARM COMPANY,,PINEFORD,IL,61205,,,formation_year=1980; entity_status=Active; naics=238210
+synthetic,REG-0020,business_registry,"SOVRLUND PLUMBING & DRAIN, CORP.",,LARKPORT,WI,53519,,,formation_year=2006; entity_status=Active; naics=238220; employee_band=20-49
+synthetic,REG-0021,business_registry,TORVBOURNE SPRINKLER CO INC,,ELMTON,KS,67047,,,formation_year=1971; entity_status=Active; naics=238220
+synthetic,REG-0022,business_registry,Haldfield Fire Safety Services Corporation,,Ironport,GA,31094,,,formation_year=1978; entity_status=Active; naics=541350
+synthetic,REG-0023,business_registry,Grelley Home Inspections Corporation,,Hollowville,ND,58522-2229,,,formation_year=1979; entity_status=Active; naics=541350
+synthetic,REG-0024,business_registry,"Braxhurst Extinguisher Service, Company",,Coldford,MN,56093-2011,,,formation_year=2018; entity_status=Active; naics=811310; employee_band=50-99
+synthetic,REG-0025,business_registry,DOVRSTOW FIRE ALARM COMPANY,,LARKHAVEN,IA,50518-7440,,,formation_year=1998; entity_status=Active; naics=238210
+synthetic,REG-0026,business_registry,"Kivelhurst Fire Extinguisher Co, L.L.C.",,Ashville,AZ,85633-2489,,,formation_year=2019; entity_status=Active; naics=811310
+synthetic,REG-0027,business_registry,"OSTRLUND ENTERPRISES, INC. DBA QUENVANE FIRE SPRINKLER",,IRONFORD,CO,81080,,,formation_year=1982; entity_status=Active; naics=238220; employee_band=10-19
+synthetic,REG-0028,business_registry,"Maldhurst Plumbing, Company",,Cedarford,KS,67016,,,formation_year=1997; entity_status=Active; naics=238220; employee_band=20-49
+synthetic,REG-0029,business_registry,YORVBY HVAC SERVICES L.L.C.,,FOXDALE,ND,58516,,,formation_year=2004; entity_status=Active
+synthetic,REG-0030,business_registry,Ulvcombe Life Safety Inspections Inc.,,Oakbrook,MO,65462-9788,,,formation_year=1995; entity_status=Active; naics=541350; employee_band=50-99; parent_entity=Parent Entity 03 (synthetic)
+synthetic,REG-0031,business_registry,"PELLFIELD HOLDINGS, LLC D.B.A. RUSKWYN FIRE ALARM",,LARKTON,IN,47336,,,formation_year=2010; entity_status=Active; naics=238210
+synthetic,REG-0032,business_registry,Maldmere Fire Sprinkler Systems Corp.,,Glenhaven,SD,57295,,,formation_year=2003; entity_status=Active; naics=238220; employee_band=100-249
+synthetic,REG-0033,business_registry,"Ulvvane Fire Detection, Company",,Wilford,ND,58572,,,formation_year=1977; entity_status=Active; naics=238210
+synthetic,REG-0034,business_registry,"Wexlgard Fire Inspection Services, Inc.",,Elmdale,OH,44153,,,formation_year=1994; entity_status=Active; naics=541350; employee_band=20-49
+synthetic,REG-0035,business_registry,"LOMBRIDGE FIRE SAFETY SERVICES, COMPANY",,BRAMBROOK,IL,61247-2051,,,formation_year=1965; entity_status=Active; naics=541350
+synthetic,REG-0036,business_registry,HESKCREST FIRE SAFETY SERVICES INC.,,GLENFIELD,NE,68828,,,formation_year=2001; entity_status=Active; naics=541350; parent_entity=Parent Entity 02 (synthetic)
+synthetic,REG-0037,business_registry,ULVHOLT ELECTRICAL CONTRACTORS COMPANY,,FOXFIELD,NE,68843,,,formation_year=1971; entity_status=Active; naics=238210; employee_band=10-19
+synthetic,REG-0038,business_registry,"TORVDELL EXTINGUISHER SERVICE, INC",,LARKVIEW,TN,37321,,,formation_year=2005; entity_status=Active; naics=811310; employee_band=50-99
+synthetic,REG-0039,business_registry,"BRAXVANE FIRE & LIFE SAFETY, L.L.C.",,BRAMVIEW,PA,16833,,,formation_year=1964; entity_status=Active; naics=541350
+synthetic,REG-0040,business_registry,"Quencombe Enterprises, Inc. DBA Sovrlund Fire & Life Safety",,Larkport,WI,53519-8964,,,formation_year=1993; entity_status=Active; naics=541350; employee_band=20-49
+synthetic,REG-0041,business_registry,"RUSKWYN FIRE ALARM, INC",,ELMBROOK,OH,44173,,,formation_year=1970; entity_status=Active; naics=238210; employee_band=20-49
+synthetic,REG-0042,business_registry,Maldmere Fire Sprinkler Systems Company,,Wilton,NE,68889,,,formation_year=2018; entity_status=Active; naics=238220; employee_band=100-249
+synthetic,REG-0043,business_registry,"FYLLEY SPRINKLER CO, INC.",,HOLLOWFORD,MI,49037,,,formation_year=1977; entity_status=Active; naics=238220
+synthetic,REG-0044,business_registry,"Wexlby Holdings, LLC d/b/a Maldshaw Life Safety Systems",,Elmport,SD,57217,,,formation_year=1974; entity_status=Active; naics=238210; employee_band=50-99
+synthetic,REG-0045,business_registry,HALDRIDGE FIRE DETECTION CORPORATION,,CEDARBROOK,NE,68847,,,formation_year=2004; entity_status=Active; naics=238210; employee_band=20-49
+synthetic,REG-0046,business_registry,TAMBHOLT SPRINKLER CO INC,,BRAMVILLE,IN,47311,,,formation_year=2010; entity_status=Active; naics=238220; employee_band=50-99
+synthetic,REG-0047,business_registry,"RUSKFIELD FIRE EXTINGUISHER CO, INC.",,IRONFORD,IN,47345,,,formation_year=1996; entity_status=Active; naics=811310; employee_band=50-99
+synthetic,REG-0048,business_registry,"Jaststead Fire Extinguisher Co, L.L.C.",,Ironbrook,WI,53549,,,formation_year=2002; entity_status=Active; naics=811310; employee_band=20-49
+synthetic,REG-0049,business_registry,"BEXLLUND FIRE SPRINKLER, L.L.C.",,LARKTON,IA,50587,,,formation_year=1972; entity_status=Active; naics=238220
+synthetic,REG-0050,business_registry,PELLSTOW FIRE INSPECTION SERVICES INC,,FOXVIEW,GA,31023,,,formation_year=1975; entity_status=Active; naics=541350
+synthetic,REG-0051,business_registry,"RUSKMOOR FIRE PROTECTION, INC.",,CEDARBROOK,ND,58515,,,formation_year=2001; entity_status=Active; naics=238220; employee_band=10-19
+synthetic,REG-0052,business_registry,JASTRIGG PLUMBING CORP.,,STONEHAVEN,OH,44195-8115,,,formation_year=1997; entity_status=Active; naics=238220; employee_band=50-99
+synthetic,REG-0053,business_registry,Pellmere Plumbing & Drain Inc.,,Larkdale,CO,81086-7994,,,formation_year=2011; entity_status=Active; naics=238220
+synthetic,REG-0054,business_registry,YORVRIDGE FIRE SAFETY SERVICES INC,,BRAMTON,TN,37314,,,formation_year=2005; entity_status=Active; naics=541350; employee_band=1-4
+synthetic,REG-0055,business_registry,"WEXLLUND FIRE SPRINKLER SYSTEMS, CORPORATION",,ASHTON,KS,67029,,,formation_year=1967; entity_status=Active; naics=238220; employee_band=50-99
+synthetic,REG-0056,business_registry,Prynby Group LLC,Veltthwaite Heating & Air,Ironhaven,OH,44105,,,formation_year=2015; entity_status=Active; naics=238220; employee_band=50-99
+synthetic,REG-0057,business_registry,"PRYNSTEAD HOLDINGS, LLC DBA MALDMOOR PLUMBING",,BRAMFIELD,WI,53587,,,formation_year=2006; entity_status=Active; naics=238220
+synthetic,REG-0058,business_registry,"Pellwick Sprinkler Co, LLC",,Larkford,SD,57204,,,formation_year=1968; entity_status=Active; naics=238220; employee_band=10-19
+synthetic,LIC-0001,state_license,ULVSTOW FIRE SPRINKLER SYSTEMS,,Larkbrook,IA,50587,,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=11
+synthetic,LIC-0002,state_license,SOVRLUND FIRE & LIFE SAFETY,,Larkport,WI,53519,,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=18
+synthetic,LIC-0003,state_license,ULVHOLT ELEC. CONTRACTORS,,Foxfield,NE,68843,+1 402 555 0191,,license_type=Fire Alarm Contractor; license_status=Active; licensed_technicians=4
+synthetic,LIC-0004,state_license,FYLLEY SPRINKLER CO,,Hollowford,MI,49037,517.555.0133,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=11
+synthetic,LIC-0005,state_license,Torvdell Extinguisher Service,,Larkview,TN,37321,,,license_type=Portable Extinguisher Service; license_status=Active; licensed_technicians=16
+synthetic,LIC-0006,state_license,LOMBLEY FIRE SUPPRESSION,,Wilport,TX,76565,,,license_type=Portable Extinguisher Service; license_status=Active; licensed_technicians=21
+synthetic,LIC-0007,state_license,Creskgard Sprinkler Co,,Bramview,WI,53567,,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=16
+synthetic,LIC-0008,state_license,TAMBHOLT SPKLR CO,,Bramville,IN,47311,574-555-0193,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=32
+synthetic,LIC-0009,state_license,Maldmere Fire Sprinkler Systems Corp.,,Glenhaven,SD,57295,,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=27
+synthetic,LIC-0010,state_license,LOMBCREST FIRE & LIFE SAFETY,,Glenhaven,MI,49086,+1 616 555 0143,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=5
+synthetic,LIC-0011,state_license,Yorvridge Fire Safety Services Inc,,Bramton,TN,37314,,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=2
+synthetic,LIC-0012,state_license,RUSKWYN FIRE ALARM,,Larkton,IN,47336,574-555-0140,,license_type=Fire Alarm Contractor; license_status=Active; licensed_technicians=16
+synthetic,LIC-0013,state_license,"Kivelhurst Fire Extinguisher Co, L.L.C.",,Ashville,AZ,85633,,,license_type=Portable Extinguisher Service; license_status=Active; licensed_technicians=5
+synthetic,LIC-0014,state_license,"Ruskmoor Fire Protection, Inc.",,Cedarbrook,ND,58515,,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=5
+synthetic,LIC-0015,state_license,HALDWICK LIFE SAFETY INSPECTIONS,,Cedarwood,IN,47333,+1 574 555 0148,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=34
+synthetic,LIC-0016,state_license,HALDFIELD FIRE SAFETY SERVICES CORPORATION,,Ironport,GA,31094,(229) 555-0143,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=11
+synthetic,LIC-0017,state_license,"GRELDELL FIRE SPRINKLER SYSTEMS, LLC",,Elmfield,MO,65473,,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=8
+synthetic,LIC-0018,state_license,Lombfield Fire Inspection Services L.L.C.,,Milldale,IL,61234,(309) 555-0138,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=25
+synthetic,LIC-0019,state_license,"RUSKMERE SPRINKLER CO, INC",,Oakport,AZ,85647,,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=14
+synthetic,LIC-0020,state_license,BRAXHURST EXTINGUISHER SERVICE,,Coldford,MN,56093,1-651-555-0170,,license_type=Portable Extinguisher Service; license_status=Active; licensed_technicians=18
+synthetic,LIC-0021,state_license,Ulvcombe Life Safety Inspections,,Oakbrook,MO,65462,(573) 555-0163,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=9
+synthetic,LIC-0022,state_license,VELTTHWAITE FIRE DETECTION,,Ironhaven,OH,44105,1-330-555-0117,,license_type=Fire Alarm Contractor; license_status=Active; licensed_technicians=11
+synthetic,LIC-0023,state_license,HALDRIDGE FIRE DETECTION CORPORATION,,Cedarbrook,NE,68847,1-402-555-0185,,license_type=Fire Alarm Contractor; license_status=Active; licensed_technicians=17
+synthetic,LIC-0024,state_license,Maldshaw Life Safety Systems,,Elmport,SD,57217,,,license_type=Fire Alarm Contractor; license_status=Active; licensed_technicians=22
+synthetic,LIC-0025,state_license,Ulvwick Fire Sprinkler,,Bramdale,MO,65432,5735550104,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=13
+synthetic,LIC-0026,state_license,Kivelrigg Fire Equip. Inc,,Millfield,MI,49093,,,license_type=Portable Extinguisher Service; license_status=Active; licensed_technicians=26
+synthetic,LIC-0027,state_license,"WEXLLUND FIRE SPRINKLER SYSTEMS, CORPORATION",,Ashton,KS,67029,(316) 555-0177,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=17
+synthetic,LIC-0028,state_license,Ruskfield Fire Ext. Co,,Ironford,IN,47345,317.555.0104,,license_type=Portable Extinguisher Service; license_status=Active; licensed_technicians=34
+synthetic,LIC-0029,state_license,Veltley Fire Sprinkler Systems Inc,,Ironville,KS,67045,+1 316 555 0199,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=7
+synthetic,LIC-0030,state_license,Bexllund Fire Sprinkler,,Larkton,IA,50587,1-515-555-0120,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=141
+synthetic,LIC-0031,state_license,Dovrvane Fire Alarm,,Cedarville,SD,57284,,,license_type=Fire Alarm Contractor; license_status=Active; licensed_technicians=21
+synthetic,LIC-0032,state_license,Heskcrest Fire Safety Services Inc.,,Glenfield,NE,68828,,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=19
+synthetic,LIC-0033,state_license,"BRAXVANE FIRE & LIFE SAFETY, L.L.C.",,Bramview,PA,16833,,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=31
+synthetic,LIC-0034,state_license,LOMBLUND FIRE & ALARM,,Pineford,IL,61205,,,license_type=Fire Alarm Contractor; license_status=Active; licensed_technicians=38
+synthetic,LIC-0035,state_license,"Ulvvane Fire Detection, Company",,Wilford,ND,58572,,,license_type=Fire Alarm Contractor; license_status=Active; licensed_technicians=15
+synthetic,LIC-0036,state_license,QUENVANE FIRE SPKLR,,Ironford,CO,81080,,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=4
+synthetic,LIC-0037,state_license,HESKRIGG FIRE PROTECTION,,Oakbrook,NE,68830,+1 308 555 0199,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=12
+synthetic,LIC-0038,state_license,TORVBOURNE SPRINKLER CO,,Elmton,KS,67047,+1 316 555 0175,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=7
+synthetic,LIC-0039,state_license,Pellstow Fire Inspection Services Inc,,Foxview,GA,31023,,,license_type=Fire Protection Inspector; license_status=Active; licensed_technicians=35
+synthetic,LIC-0040,state_license,Fylfield Fire Sprinkler,,Ironbrook,MN,56065,,,license_type=Fire Sprinkler Contractor; license_status=Active; licensed_technicians=23
+synthetic,ASN-0001,trade_association,Braxvane Fire & Life Safety,,Bramview,PA,,814-555-0112,,services=annual testing; fire and life safety inspections; member_since=1993
+synthetic,ASN-0002,trade_association,Ruskwyn Fire Alarm,,Larkton,IN,,574-555-0140,,services=emergency lighting; notification appliances; member_since=2009
+synthetic,ASN-0003,trade_association,Heskcrest Fire Safety Services,,Glenfield,NE,,,https://www.heskcrestfiresafety.example/,services=fire and life safety inspections; deficiency repairs; member_since=2018
+synthetic,ASN-0004,trade_association,Sovrlund Fire and Life Safety,,Larkport,WI,,1-608-555-0178,,services=deficiency repairs; fire and life safety inspections; member_since=2018
+synthetic,ASN-0005,trade_association,Kivelrigg Fire Equipment,,Millfield,MI,,(616) 555-0184,https://www.kivelriggfireequip.example/,services=clean agent systems; fire extinguisher service; member_since=2001
+synthetic,ASN-0006,trade_association,Lombfield Fire Inspection Services,,Milldale,IL,,309-555-0138,,services=annual testing; fire and life safety inspections; member_since=2002
+synthetic,ASN-0007,trade_association,"Ruskfield Fire Extinguisher Co, Inc",,Ironford,IN,,3175550104,http://ruskfieldfireequip.example,services=hydrostatic testing; clean agent systems; member_since=2017
+synthetic,ASN-0008,trade_association,"Lomblund Fire & Alarm, Co.",,Pineford,IL,,,www.lomblundalarm.example,services=notification appliances; emergency lighting; member_since=2004
+synthetic,ASN-0009,trade_association,Lombridge Fire Safety Services L.L.C.,,Brambrook,IL,,3095550114,,services=annual testing; code compliance reports; member_since=1990
+synthetic,ASN-0010,trade_association,Lombcrest Fire & Life Safety Inc,,Glenhaven,MI,,1-616-555-0143,,services=annual testing; deficiency repairs; member_since=2010
+synthetic,ASN-0011,trade_association,"Jaststead Fire Extinguisher Co, L.L.C.",,Ironbrook,WI,,,,services=clean agent systems; fire extinguisher service; member_since=2012
+synthetic,ASN-0012,trade_association,Ulvwick Fire Sprinkler,,Bramdale,MO,,1-573-555-0104,,services=backflow testing; standpipe service; member_since=1999
+synthetic,ASN-0013,trade_association,Maldshaw Life Safety Systems Corporation,,Elmport,SD,,+1 605 555 0187,,services=fire alarm installation; emergency lighting; member_since=2016
+synthetic,ASN-0014,trade_association,Haldridge Fire Detection,,Cedarbrook,NE,,402.555.0185,,services=alarm monitoring; fire alarm installation; member_since=2016
+synthetic,ASN-0015,trade_association,Ruskwyn Fire Alarm,,Elmbrook,OH,,(614) 555-0117,http://ruskwynalarm.example,services=alarm monitoring; notification appliances; member_since=2018
+synthetic,ASN-0016,trade_association,Ruskmoor Fire Protection,,Cedarbrook,ND,,(701) 555-0181,,services=sprinkler inspection; fire pump testing; member_since=2004
+synthetic,ASN-0017,trade_association,Wexlgard Fire Inspection Services,,Elmdale,OH,,(614) 555-0135,https://www.wexlgardfiresafety.example/,services=deficiency repairs; annual testing; member_since=1999
+synthetic,ASN-0018,trade_association,"Maldmere Fire Sprinkler Systems, Company",,Glenhaven,SD,,(605) 555-0147,,services=backflow testing; fire pump testing; member_since=2012
+synthetic,ASN-0019,trade_association,Ulvstow Fire Sprinkler Systems,,Larkbrook,IA,,319.555.0180,,services=standpipe service; sprinkler inspection; member_since=2015
+synthetic,WEB-0001,web_listing,Haldridge Fire Detection Corporation,,Cedarbrook,NE,68847,402.555.0185,,listing_category=Fire alarm contractor; services=fire alarm installation; alarm monitoring; notification appliances; installation and service
+synthetic,WEB-0002,web_listing,Heskrigg Fire Protection,,Oakbrook,NE,68830,1-308-555-0199,https://heskriggfire.example/about,listing_category=Fire sprinkler contractor; services=standpipe service; backflow testing; sprinkler inspection; maintenance agreements; installation and service; stated_headcount=38
+synthetic,WEB-0003,web_listing,Braxvane Fire & Life Safety,,Bramview,PA,,8145550112,,listing_category=Fire safety inspection service; services=deficiency repairs; code compliance reports; fire and life safety inspections; maintenance agreements
+synthetic,WEB-0004,web_listing,Quenvane Fire Sprinkler,,Ironford,CO,81080,+1 719 555 0131,https://quenvanefire.example/about,listing_category=Fire sprinkler contractor; services=fire pump testing; fire sprinkler installation; standpipe service; maintenance agreements; installation and service
+synthetic,WEB-0005,web_listing,"Carvbourne Fire Sprinkler Systems, Inc.",,Foxview,PA,16856,1-570-555-0161,carvbournefire.example,listing_category=Fire sprinkler contractor; services=backflow testing; standpipe service; fire pump testing; installation and service; maintenance agreements
+synthetic,WEB-0006,web_listing,"Ulvwick Fire Sprinkler, Company",,Bramdale,MO,65432,573.555.0104,,listing_category=Fire sprinkler contractor; services=fire sprinkler installation; sprinkler inspection; fire pump testing; maintenance agreements; installation and service
+synthetic,WEB-0007,web_listing,Wexllund Fire Sprinkler Systems,,Ashton,KS,67029,1-316-555-0177,https://www.wexllundfire.example/,listing_category=Fire sprinkler contractor; services=fire pump testing; fire sprinkler installation; standpipe service; tenant finish; stated_headcount=48
+synthetic,WEB-0008,web_listing,Grelley Home,,Hollowville,ND,,,https://grelleyinspect.example/about,listing_category=Home inspector; services=serving homeowners; radon testing; home inspections; new construction; tenant finish; stated_headcount=30
+synthetic,WEB-0009,web_listing,Lombridge Heating & Air,,Brambrook,IL,61247,2175550176,https://www.lombridgeair.example/,listing_category=HVAC contractor; services=furnace repair; duct cleaning; air conditioning installation; installation and service; maintenance agreements
+synthetic,WEB-0010,web_listing,Yrvthwaite Fire & Alarm,,Bramdale,MO,65443,1-573-555-0185,https://www.yorvthwaitealarm.example/,listing_category=Fire alarm contractor; services=emergency lighting; fire alarm inspection; notification appliances; inspection agreements
+synthetic,WEB-0011,web_listing,"Veltley Fire Sprinkler Sys., L.L.C.",,Ironville,KS,67045,(316) 555-0199,,listing_category=Fire sprinkler contractor; services=sprinkler inspection; backflow testing; fire pump testing; 24/7 service
+synthetic,WEB-0012,web_listing,Lombcrest Fire & Life Saftey,,Glenhaven,MI,,1-616-555-0143,,listing_category=Fire safety inspection service; services=fire and life safety inspections; deficiency repairs; annual testing; scheduled maintenance
+synthetic,WEB-0013,web_listing,Kivelhurst Fire Extinguisher,,Ashville,AZ,85633,928.555.0187,www.kivelhurstfireequip.example,listing_category=Fire extinguisher service; services=hydrostatic testing; fire extinguisher service; kitchen hood suppression; inspection agreements; stated_headcount=13
+synthetic,WEB-0014,web_listing,Zennstead Life Safety,,Wilton,MN,,651.555.0169,,listing_category=Fire alarm contractor; services=fire alarm inspection; emergency lighting; fire alarm installation; new construction; tenant finish
+synthetic,WEB-0015,web_listing,Wexlgard Fire Inspection Services,,Elmdale,OH,,,http://wexlgardfiresafety.example,listing_category=Fire safety inspection service; services=deficiency repairs; annual testing; code compliance reports; 24/7 service; scheduled maintenance
+synthetic,WEB-0016,web_listing,Kivelrigg Fire Equipment,,Millfield,MI,49093,6165550184,http://kivelriggfireequip.example,listing_category=Fire extinguisher service; services=fire extinguisher service; hydrostatic testing; kitchen hood suppression; 24/7 service; inspection agreements
+synthetic,WEB-0017,web_listing,Wexllund Fire Spklr Sys.,,Ashton,KS,67029,,http://wexllundfire.example,listing_category=Fire sprinkler contractor; services=fire sprinkler installation; sprinkler inspection; backflow testing; new construction
+synthetic,WEB-0018,web_listing,Ulvvane Fire Detection,,Wilford,ND,,7015550109,,listing_category=Fire alarm contractor; services=emergency lighting; fire alarm installation; notification appliances; 24/7 service; inspection agreements; stated_headcount=35
+synthetic,WEB-0019,web_listing,Maldhurst Plumbing LLC,,Cedarford,KS,67016,785.555.0192,,listing_category=Plumbing contractor; services=commercial plumbing; water heater installation; drain cleaning; inspection agreements; 24/7 service; stated_headcount=34
+synthetic,WEB-0020,web_listing,"Braxhurst Extinguisher Service, LLC",,Coldford,MN,56093,(651) 555-0170,,listing_category=Fire extinguisher service; services=clean agent systems; kitchen hood suppression; fire extinguisher service; installation and service; maintenance agreements
+synthetic,WEB-0021,web_listing,Dovrstow Fire Alarm,,Larkhaven,IA,,1-319-555-0187,http://dovrstowalarm.example,listing_category=Fire alarm contractor; services=fire alarm inspection; emergency lighting; fire alarm installation; scheduled maintenance; 24/7 service
+synthetic,WEB-0022,web_listing,Maldmoor Plumbing,,Bramfield,WI,53587,(715) 555-0198,www.maldmoorplumbing.example,listing_category=Plumbing contractor; services=drain cleaning; commercial plumbing; water heater installation; design-build installation
+synthetic,WEB-0023,web_listing,Veltthwaite Heating & Air,,Ironhaven,OH,,6145550143,https://veltthwaiteair.example/about,listing_category=HVAC contractor; services=air conditioning installation; duct cleaning; furnace repair; maintenance agreements
+synthetic,WEB-0024,web_listing,Heskcrest Fire Safety,,Glenfield,NE,68828,308-555-0184,www.heskcrestfiresafety.example,listing_category=Fire safety inspection service; services=code compliance reports; deficiency repairs; annual testing; installation and service
+synthetic,WEB-0025,web_listing,Maldhurst Plumbing,,Cedarford,KS,67016,+1 785 555 0192,https://www.maldhurstplumbing.example/,listing_category=Plumbing contractor; services=commercial plumbing; drain cleaning; water heater installation; inspection agreements; scheduled maintenance
+synthetic,WEB-0026,web_listing,Ruskwyn Fire Alarm,,Elmbrook,OH,44173,614.555.0117,ruskwynalarm.example,listing_category=Fire alarm contractor; services=fire alarm installation; alarm monitoring; notification appliances; new construction; tenant finish
+synthetic,WEB-0027,web_listing,Fylfield Fire Spklr,,Ironbrook,MN,56065,1-507-555-0145,,listing_category=Fire sprinkler contractor; services=standpipe service; backflow testing; sprinkler inspection; design-build installation; tenant finish; locations=2
+synthetic,WEB-0028,web_listing,Jaststad Fire Ext. Co,,Ironbrook,WI,,715-555-0168,,listing_category=Fire extinguisher service; services=clean agent systems; hydrostatic testing; fire extinguisher service; 24/7 service; stated_headcount=56
+synthetic,WEB-0029,web_listing,Yorvby HVAC Servces Company,,Foxdale,ND,58516,701-555-0148,www.yorvbyair.example,listing_category=HVAC contractor; services=duct cleaning; air conditioning installation; furnace repair; new construction; design-build installation
+synthetic,WEB-0030,web_listing,Bexllund Fire Sprinkler,,Larkton,IA,50587,515.555.0120,https://bexllundfire.example/about,listing_category=Fire sprinkler contractor; services=fire sprinkler installation; sprinkler inspection; standpipe service; tenant finish; locations=12
+synthetic,WEB-0031,web_listing,Pellmere Plumbing and Drain,,Larkdale,CO,81086,719-555-0116,www.pellmereplumbing.example,listing_category=Plumbing contractor; services=drain cleaning; commercial plumbing; water heater installation; tenant finish; design-build installation; stated_headcount=27
+synthetic,WEB-0032,web_listing,"Carvwick Electric, Inc.",,Glenville,IN,47361,3175550174,,listing_category=Electrical contractor; services=emergency lighting; commercial wiring; lighting retrofits; installation and service
+synthetic,WEB-0033,web_listing,Carvwick Electric,,Glenville,IN,47361,317-555-0174,,listing_category=Electrical contractor; services=lighting retrofits; commercial wiring; emergency lighting; maintenance agreements; locations=2
+synthetic,WEB-0034,web_listing,"Sovrlund Fire & Life Safety, Company",,Larkport,WI,53519,+1 608 555 0178,sovrlundfiresafety.example,listing_category=Fire safety inspection service; services=deficiency repairs; code compliance reports; annual testing; installation and service; stated_headcount=46
+synthetic,WEB-0035,web_listing,Ruskfield Fire Ext. Co,,Ironford,IN,47345,317-555-0104,www.ruskfieldfireequip.example,listing_category=Fire extinguisher service; services=fire extinguisher service; hydrostatic testing; kitchen hood suppression; installation and service
+synthetic,WEB-0036,web_listing,Lombley Fire Suppression,,Wilport,TX,76565,254-555-0182,lombleyfireequip.example,listing_category=Fire extinguisher service; services=fire extinguisher service; clean agent systems; kitchen hood suppression; new construction; stated_headcount=55
+synthetic,WEB-0037,web_listing,Sovrlund Plumbing & Drain,,Larkport,WI,53519,(608) 555-0196,https://sovrlundplumbing.example/about,listing_category=Plumbing contractor; services=water heater installation; commercial plumbing; drain cleaning; maintenance agreements
+synthetic,WEB-0038,web_listing,Ruskwyn Fire Alarm,,Larkton,IN,,574-555-0140,https://www.ruskwynalarmin.example/,listing_category=Fire alarm contractor; services=alarm monitoring; fire alarm installation; notification appliances; design-build installation
+synthetic,WEB-0039,web_listing,Lombhaven Fire Equipment,,Oakwood,TX,76522,254-555-0191,www.lombhavenfireequip.example,listing_category=Fire extinguisher service; services=hydrostatic testing; fire extinguisher service; kitchen hood suppression; 24/7 service
+synthetic,WEB-0040,web_listing,"Maldshaw Life Safety, Company",,Elmport,SD,,(605) 555-0187,https://www.maldshawalarm.example/,listing_category=Fire alarm contractor; services=fire alarm installation; notification appliances; alarm monitoring; tenant finish
+synthetic,WEB-0041,web_listing,"Maldmere Fire Sprinkler Systems, Company",,Glenhaven,SD,57295,605.555.0147,,listing_category=Fire sprinkler contractor; services=standpipe service; fire sprinkler installation; sprinkler inspection; scheduled maintenance; 24/7 service; stated_headcount=65
+synthetic,WEB-0042,web_listing,Dovrvane Fire Alarm,,Cedarville,SD,57284,+1 605 555 0165,https://dovrvanealarm.example/about,listing_category=Fire alarm contractor; services=emergency lighting; fire alarm installation; fire alarm inspection; installation and service; stated_headcount=61
+synthetic,WEB-0043,web_listing,"Ruskmere Sprinkler Co, Inc.",,Oakport,AZ,,+1 928 555 0187,https://www.ruskmerefire.example/,listing_category=Fire sprinkler contractor; services=sprinkler inspection; fire sprinkler installation; fire pump testing; installation and service; maintenance agreements; stated_headcount=29
+synthetic,WEB-0044,web_listing,Torvbourne Sprinkler Co Inc.,,Elmton,KS,67047,+1 316 555 0175,http://torvbournefire.example,listing_category=Fire sprinkler contractor; services=standpipe service; backflow testing; fire pump testing; new construction; stated_headcount=26
+synthetic,WEB-0045,web_listing,Pellwick Sprinkler Co,,Larkford,SD,,(605) 555-0166,pellwickfire.example,listing_category=Fire sprinkler contractor; services=fire sprinkler installation; sprinkler inspection; standpipe service; maintenance agreements; installation and service
+synthetic,WEB-0046,web_listing,Lombridge Fire Safety Svcs.,,Brambrook,IL,,309.555.0114,,listing_category=Fire safety inspection service; services=deficiency repairs; code compliance reports; fire and life safety inspections; maintenance agreements
+synthetic,WEB-0047,web_listing,"Veltthwaite Fire Detection, Corporation",,Ironhaven,OH,44105,3305550117,https://www.veltthwaitealarm.example/,listing_category=Fire alarm contractor; services=alarm monitoring; fire alarm inspection; fire alarm installation; maintenance agreements; stated_headcount=44
+synthetic,WEB-0048,web_listing,Lomblund Fire and Alarm,,Pineford,IL,61205,3095550198,https://lomblundalarm.example/about,listing_category=Fire alarm contractor; services=fire alarm installation; emergency lighting; fire alarm inspection; maintenance agreements; locations=2
+synthetic,WEB-0049,web_listing,Sovrlund Plumbing & Drain,,Larkport,WI,53519,+1 608 555 0196,,listing_category=Plumbing contractor; services=drain cleaning; commercial plumbing; water heater installation; installation and service; maintenance agreements; stated_headcount=24
+synthetic,WEB-0050,web_listing,Sovrlund Fire & Life Safety,,Larkport,WI,53519,,www.sovrlundfiresafety.example,listing_category=Fire safety inspection service; services=annual testing; fire and life safety inspections; code compliance reports; installation and service; maintenance agreements
